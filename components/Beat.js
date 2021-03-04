@@ -1,13 +1,11 @@
-import React, { useRef } from 'react';
+import React from 'react';
 import styles from './Beat.module.scss';
 
 const Beat = ({ beat }) => {
-  const capo = useRef(null);
-
   return (
     <section className={styles.beat}>
       {beat.capo && (
-        <div ref={capo} className={styles.capo}>
+        <div className={styles.capo}>
           {'C.' + beat.capo}
         </div>
       )}
