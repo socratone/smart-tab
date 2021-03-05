@@ -4,7 +4,7 @@ import styles from './Beat.module.scss';
 const Beat = ({ beat }) => {
   return (
     <section className={styles.beat}>
-      {beat.capo && (
+      {beat && beat.capo && (
         <div className={styles.capo}>
           {'C.' + beat.capo}
         </div>

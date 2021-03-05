@@ -3,9 +3,6 @@
   height: 140px; // bar height
   margin: 30px 0 50px 0;
   border-left: black solid 1px;
-}
-
-.bar:nth-child(2n) {
   border-right: black solid 1px;
 }
 
@@ -36,7 +33,17 @@
   border-top: 1px solid black;
 }
 
-@media (min-width: 720px) {
+@media (min-width: 600px) {
+  .bar {
+    border-right: 0;
+  }
+
+  .bar:nth-child(2n) {
+    border-right: black solid 1px;
+  }
+}
+
+@media (min-width: 900px) {
   .bar:nth-child(2n) {
     border-right: 0;
   }
@@ -46,7 +53,7 @@
   }
 }
 
-@media (min-width: 920px) {
+@media (min-width: 1200px) {
   .bar:nth-child(3n) {
     border-right: 0;
   }

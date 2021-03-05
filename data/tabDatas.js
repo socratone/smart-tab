@@ -6,390 +6,390 @@ const tabDatas = [
     timeSignature: '4/4',
     bars: [
       {
-        beat1: {
+        b1g1: {
           line4: 7,
           capo: 5,
         },
-        beat15: {
+        b1g3: {
           line3: 5
         },
-        beat2: {
+        b2g1: {
           line2: 5
         },
-        beat25: {
+        b2g3: {
           line1: 5
         },
-        beat3: {
+        b3g1: {
           line1: 7,
           line4: 6
         },
-        beat35: {
+        b3g3: {
           line2: 5
         },
-        beat4: {
+        b4g1: {
           line3: 5
         },
-        beat45: {
+        b4g3: {
           line1: 7
         }
       },
       {
-        beat1: {
+        b1g1: {
           line1: 8,
           line4: 5,
           capo: 5,
         },
-        beat15: {
+        b1g3: {
           line2: 5
         },
-        beat2: {
+        b2g1: {
           line3: 5
         },
-        beat25: {
+        b2g3: {
           line1: 8
         },
-        beat3: {
+        b3g1: {
           line1: 2,
           line4: 4,
           capo: 2,
         },
-        beat35: {
+        b3g3: {
           line2: 3
         },
-        beat4: {
+        b4g1: {
           line4: 2
         },
-        beat45: {
+        b4g3: {
           line1: 2
         }
       },
       {
-        beat1: {
+        b1g1: {
           line1: 1,
           line4: 1,
           capo: 5,
         },
-        beat15: {
+        b1g3: {
           line2: 1
         },
-        beat2: {
+        b2g1: {
           line3: 1
         },
-        beat25: {
+        b2g3: {
           line1: 1
         },
-        beat3: {
+        b3g1: {
           line1: 1,
           line4: 1,
           capo: 1,
         },
-        beat35: {
+        b3g3: {
           line2: 1
         },
-        beat4: {
+        b4g1: {
           line4: 1
         },
-        beat45: {
+        b4g3: {
           line1: 1
         }
       },
       {
-        beat1: {
+        b1g1: {
           line1: 1,
           line4: 1,
           capo: 5,
         },
-        beat15: {
+        b1g3: {
           line2: 1
         },
-        beat2: {
+        b2g1: {
           line3: 1
         },
-        beat25: {
+        b2g3: {
           line1: 1
         },
-        beat3: {
+        b3g1: {
           line1: 1,
           line4: 1,
           capo: 1,
         },
-        beat35: {
+        b3g3: {
           line2: 1
         },
-        beat4: {
+        b4g1: {
           line4: 1
         },
-        beat45: {
+        b4g3: {
           line1: 1
         }
       },
       {
-        beat1: {
+        b1g1: {
           line1: 1,
           line4: 1,
           capo: 5,
         },
-        beat15: {
+        b1g3: {
           line2: 1
         },
-        beat2: {
+        b2g1: {
           line3: 1
         },
-        beat25: {
+        b2g3: {
           line1: 1
         },
-        beat3: {
+        b3g1: {
           line1: 1,
           line4: 1,
           capo: 1,
         },
-        beat35: {
+        b3g3: {
           line2: 1
         },
-        beat4: {
+        b4g1: {
           line4: 1
         },
-        beat45: {
+        b4g3: {
           line1: 1
         }
       },
       {
-        beat1: {
+        b1g1: {
           line1: 1,
           line4: 1,
           capo: 5,
         },
-        beat15: {
+        b1g3: {
           line2: 1
         },
-        beat2: {
+        b2g1: {
           line3: 1
         },
-        beat25: {
+        b2g3: {
           line1: 1
         },
-        beat3: {
+        b3g1: {
           line1: 1,
           line4: 1,
           capo: 1,
         },
-        beat35: {
+        b3g3: {
           line2: 1
         },
-        beat4: {
+        b4g1: {
           line4: 1
         },
-        beat45: {
+        b4g3: {
           line1: 1
         }
       },
       {
-        beat1: {
+        b1g1: {
           line1: 1,
           line4: 1,
           capo: 5,
         },
-        beat15: {
+        b1g3: {
           line2: 1
         },
-        beat2: {
+        b2g1: {
           line3: 1
         },
-        beat25: {
+        b2g3: {
           line1: 1
         },
-        beat3: {
+        b3g1: {
           line1: 1,
           line4: 1,
           capo: 1,
         },
-        beat35: {
+        b3g3: {
           line2: 1
         },
-        beat4: {
+        b4g1: {
           line4: 1
         },
-        beat45: {
+        b4g3: {
           line1: 1
         }
       },
       {
-        beat1: {
+        b1g1: {
           line1: 1,
           line4: 1,
           capo: 5,
         },
-        beat15: {
+        b1g3: {
           line2: 1
         },
-        beat2: {
+        b2g1: {
           line3: 1
         },
-        beat25: {
+        b2g3: {
           line1: 1
         },
-        beat3: {
+        b3g1: {
           line1: 1,
           line4: 1,
           capo: 1,
         },
-        beat35: {
+        b3g3: {
           line2: 1
         },
-        beat4: {
+        b4g1: {
           line4: 1
         },
-        beat45: {
+        b4g3: {
           line1: 1
         }
       },
       {
-        beat1: {
+        b1g1: {
           line1: 1,
           line4: 1,
           capo: 5,
         },
-        beat15: {
+        b1g3: {
           line2: 1
         },
-        beat2: {
+        b2g1: {
           line3: 1
         },
-        beat25: {
+        b2g3: {
           line1: 1
         },
-        beat3: {
+        b3g1: {
           line1: 1,
           line4: 1,
           capo: 1,
         },
-        beat35: {
+        b3g3: {
           line2: 1
         },
-        beat4: {
+        b4g1: {
           line4: 1
         },
-        beat45: {
+        b4g3: {
           line1: 1
         }
       },
       {
-        beat1: {
+        b1g1: {
           line1: 1,
           line4: 1,
           capo: 5,
         },
-        beat15: {
+        b1g3: {
           line2: 1
         },
-        beat2: {
+        b2g1: {
           line3: 1
         },
-        beat25: {
+        b2g3: {
           line1: 1
         },
-        beat3: {
+        b3g1: {
           line1: 1,
           line4: 1,
           capo: 1,
         },
-        beat35: {
+        b3g3: {
           line2: 1
         },
-        beat4: {
+        b4g1: {
           line4: 1
         },
-        beat45: {
+        b4g3: {
           line1: 1
         }
       },
       {
-        beat1: {
+        b1g1: {
           line1: 1,
           line4: 1,
           capo: 5,
         },
-        beat15: {
+        b1g3: {
           line2: 1
         },
-        beat2: {
+        b2g1: {
           line3: 1
         },
-        beat25: {
+        b2g3: {
           line1: 1
         },
-        beat3: {
+        b3g1: {
           line1: 1,
           line4: 1,
           capo: 1,
         },
-        beat35: {
+        b3g3: {
           line2: 1
         },
-        beat4: {
+        b4g1: {
           line4: 1
         },
-        beat45: {
+        b4g3: {
           line1: 1
         }
       },
       {
-        beat1: {
+        b1g1: {
           line1: 1,
           line4: 1,
           capo: 5,
         },
-        beat15: {
+        b1g3: {
           line2: 1
         },
-        beat2: {
+        b2g1: {
           line3: 1
         },
-        beat25: {
+        b2g3: {
           line1: 1
         },
-        beat3: {
+        b3g1: {
           line1: 1,
           line4: 1,
           capo: 1,
         },
-        beat35: {
+        b3g3: {
           line2: 1
         },
-        beat4: {
+        b4g1: {
           line4: 1
         },
-        beat45: {
+        b4g3: {
           line1: 1
         }
       },
       {
-        beat1: {
+        b1g1: {
           line1: 1,
           line4: 1,
           capo: 5,
         },
-        beat15: {
+        b1g3: {
           line2: 1
         },
-        beat2: {
+        b2g1: {
           line3: 1
         },
-        beat25: {
+        b2g3: {
           line1: 1
         },
-        beat3: {
+        b3g1: {
           line1: 1,
           line4: 1,
           capo: 1,
         },
-        beat35: {
+        b3g3: {
           line2: 1
         },
-        beat4: {
+        b4g1: {
           line4: 1
         },
-        beat45: {
+        b4g3: {
           line1: 1
         }
       },
