@@ -63,6 +63,336 @@ const tabDatas = [
           line1: 2
         }
       },
+      {
+        beat1: {
+          line1: 1,
+          line4: 1,
+          capo: 5,
+        },
+        beat15: {
+          line2: 1
+        },
+        beat2: {
+          line3: 1
+        },
+        beat25: {
+          line1: 1
+        },
+        beat3: {
+          line1: 1,
+          line4: 1,
+          capo: 1,
+        },
+        beat35: {
+          line2: 1
+        },
+        beat4: {
+          line4: 1
+        },
+        beat45: {
+          line1: 1
+        }
+      },
+      {
+        beat1: {
+          line1: 1,
+          line4: 1,
+          capo: 5,
+        },
+        beat15: {
+          line2: 1
+        },
+        beat2: {
+          line3: 1
+        },
+        beat25: {
+          line1: 1
+        },
+        beat3: {
+          line1: 1,
+          line4: 1,
+          capo: 1,
+        },
+        beat35: {
+          line2: 1
+        },
+        beat4: {
+          line4: 1
+        },
+        beat45: {
+          line1: 1
+        }
+      },
+      {
+        beat1: {
+          line1: 1,
+          line4: 1,
+          capo: 5,
+        },
+        beat15: {
+          line2: 1
+        },
+        beat2: {
+          line3: 1
+        },
+        beat25: {
+          line1: 1
+        },
+        beat3: {
+          line1: 1,
+          line4: 1,
+          capo: 1,
+        },
+        beat35: {
+          line2: 1
+        },
+        beat4: {
+          line4: 1
+        },
+        beat45: {
+          line1: 1
+        }
+      },
+      {
+        beat1: {
+          line1: 1,
+          line4: 1,
+          capo: 5,
+        },
+        beat15: {
+          line2: 1
+        },
+        beat2: {
+          line3: 1
+        },
+        beat25: {
+          line1: 1
+        },
+        beat3: {
+          line1: 1,
+          line4: 1,
+          capo: 1,
+        },
+        beat35: {
+          line2: 1
+        },
+        beat4: {
+          line4: 1
+        },
+        beat45: {
+          line1: 1
+        }
+      },
+      {
+        beat1: {
+          line1: 1,
+          line4: 1,
+          capo: 5,
+        },
+        beat15: {
+          line2: 1
+        },
+        beat2: {
+          line3: 1
+        },
+        beat25: {
+          line1: 1
+        },
+        beat3: {
+          line1: 1,
+          line4: 1,
+          capo: 1,
+        },
+        beat35: {
+          line2: 1
+        },
+        beat4: {
+          line4: 1
+        },
+        beat45: {
+          line1: 1
+        }
+      },
+      {
+        beat1: {
+          line1: 1,
+          line4: 1,
+          capo: 5,
+        },
+        beat15: {
+          line2: 1
+        },
+        beat2: {
+          line3: 1
+        },
+        beat25: {
+          line1: 1
+        },
+        beat3: {
+          line1: 1,
+          line4: 1,
+          capo: 1,
+        },
+        beat35: {
+          line2: 1
+        },
+        beat4: {
+          line4: 1
+        },
+        beat45: {
+          line1: 1
+        }
+      },
+      {
+        beat1: {
+          line1: 1,
+          line4: 1,
+          capo: 5,
+        },
+        beat15: {
+          line2: 1
+        },
+        beat2: {
+          line3: 1
+        },
+        beat25: {
+          line1: 1
+        },
+        beat3: {
+          line1: 1,
+          line4: 1,
+          capo: 1,
+        },
+        beat35: {
+          line2: 1
+        },
+        beat4: {
+          line4: 1
+        },
+        beat45: {
+          line1: 1
+        }
+      },
+      {
+        beat1: {
+          line1: 1,
+          line4: 1,
+          capo: 5,
+        },
+        beat15: {
+          line2: 1
+        },
+        beat2: {
+          line3: 1
+        },
+        beat25: {
+          line1: 1
+        },
+        beat3: {
+          line1: 1,
+          line4: 1,
+          capo: 1,
+        },
+        beat35: {
+          line2: 1
+        },
+        beat4: {
+          line4: 1
+        },
+        beat45: {
+          line1: 1
+        }
+      },
+      {
+        beat1: {
+          line1: 1,
+          line4: 1,
+          capo: 5,
+        },
+        beat15: {
+          line2: 1
+        },
+        beat2: {
+          line3: 1
+        },
+        beat25: {
+          line1: 1
+        },
+        beat3: {
+          line1: 1,
+          line4: 1,
+          capo: 1,
+        },
+        beat35: {
+          line2: 1
+        },
+        beat4: {
+          line4: 1
+        },
+        beat45: {
+          line1: 1
+        }
+      },
+      {
+        beat1: {
+          line1: 1,
+          line4: 1,
+          capo: 5,
+        },
+        beat15: {
+          line2: 1
+        },
+        beat2: {
+          line3: 1
+        },
+        beat25: {
+          line1: 1
+        },
+        beat3: {
+          line1: 1,
+          line4: 1,
+          capo: 1,
+        },
+        beat35: {
+          line2: 1
+        },
+        beat4: {
+          line4: 1
+        },
+        beat45: {
+          line1: 1
+        }
+      },
+      {
+        beat1: {
+          line1: 1,
+          line4: 1,
+          capo: 5,
+        },
+        beat15: {
+          line2: 1
+        },
+        beat2: {
+          line3: 1
+        },
+        beat25: {
+          line1: 1
+        },
+        beat3: {
+          line1: 1,
+          line4: 1,
+          capo: 1,
+        },
+        beat35: {
+          line2: 1
+        },
+        beat4: {
+          line4: 1
+        },
+        beat45: {
+          line1: 1
+        }
+      },
     ]
   }
 ];

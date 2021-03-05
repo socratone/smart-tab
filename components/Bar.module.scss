@@ -2,8 +2,14 @@
   position: relative;
   height: 140px; // bar height
   margin: 30px 0 50px 0;
-  // border: gainsboro solid 1px; // temp
   border-left: black solid 1px;
+}
+
+.bar:nth-child(2n) {
+  border-right: black solid 1px;
+}
+
+.bar:last-child {
   border-right: black solid 1px;
 }
 
@@ -28,4 +34,24 @@
 
 .line {
   border-top: 1px solid black;
+}
+
+@media (min-width: 720px) {
+  .bar:nth-child(2n) {
+    border-right: 0;
+  }
+
+  .bar:nth-child(3n) {
+    border-right: black solid 1px;
+  }
+}
+
+@media (min-width: 920px) {
+  .bar:nth-child(3n) {
+    border-right: 0;
+  }
+
+  .bar:nth-child(4n) {
+    border-right: black solid 1px;
+  }
 }

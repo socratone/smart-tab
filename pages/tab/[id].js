@@ -28,7 +28,7 @@ const Tab = () => {
       
       <Main>
         <h1 className={styles.title}>{data.title}</h1>
-        <section>
+        <section className={styles.barContainer}>
           {data.bars.map((bar, i) => <Bar key={i} bar={bar} />)}
         </section>
       </Main>
