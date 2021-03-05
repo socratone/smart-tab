@@ -2,17 +2,15 @@ import { useRouter } from 'next/router';
 import Head from 'next/head';
 import Header from '../../components/header';
 import Nav from '../../components/nav';
-import Main from '../../components/Main';
+import Main from '../../components/main';
 import getTabDataById from '../../data/getTabDataById';
-import styles from '../../styles/Tab.module.scss';
-import Bar from '../../components/Bar';
+import styles from '../../styles/tab.module.scss';
+import Bar from '../../components/bar';
 
 const Tab = () => {
   const router = useRouter();
   const { id } = router.query;
   const data = getTabDataById(id);
-
-  console.log('data:', data)
 
   if (!data) return null;
 

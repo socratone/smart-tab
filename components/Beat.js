@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './Beat.module.scss';
+import styles from './beat.module.scss';
 
 const Beat = ({ beat }) => {
   return (

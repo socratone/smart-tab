@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './Main.module.scss';
+import styles from './main.module.scss';
 
 const Main = ({ children }) => {
   return (  

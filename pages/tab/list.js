@@ -3,8 +3,8 @@ import Link from 'next/link';
 import Head from 'next/head';
 import Header from '../../components/header';
 import Nav from '../../components/nav';
-import Main from '../../components/Main';
-import styles from '../../styles/TabList.module.scss';
+import Main from '../../components/main';
+import styles from '../../styles/tabList.module.scss';
 import tabDatas from '../../data/tabDatas';
 
 const TabList = () => {

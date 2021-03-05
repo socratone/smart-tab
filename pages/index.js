@@ -1,8 +1,8 @@
 import Head from 'next/head';
 import Header from '../components/header';
-import Main from '../components/Main';
+import Main from '../components/main';
 import Nav from '../components/nav';
-import styles from '../styles/Home.module.scss';
+import styles from '../styles/home.module.scss';
 
 export default function Home() {
   return (

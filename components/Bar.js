@@ -1,6 +1,6 @@
 import React from 'react';
-import styles from './Bar.module.scss';
-import Beat from './Beat';
+import styles from './bar.module.scss';
+import Beat from './beat';
 
 const Bar = ({ bar }) => {
   return (  
