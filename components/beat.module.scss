@@ -1,0 +1,23 @@
+.beat {
+  width: 100%;
+  position: relative;
+  display: grid;
+  grid-template-rows: repeat(6, 1fr);
+}
+
+.capo {
+  position: absolute;
+  top: -20px; // offset
+  color: #999;
+}
+
+.noteContainer {
+  display: flex;
+  // justify-content: center;
+  align-items: center;
+}
+
+.note {
+  background: white;
+  padding: 0 1px;
+}
