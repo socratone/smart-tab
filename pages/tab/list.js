@@ -4,7 +4,7 @@ import Head from 'next/head';
 import Header from '../../components/header';
 import Nav from '../../components/nav';
 import Main from '../../components/main';
-import styles from '../../styles/tab-list.module.scss';
+import styles from '../../styles/Tab-list.module.scss';
 import tabDatas from '../../data/tabDatas';
 
 const TabList = () => {

@@ -4,7 +4,7 @@ import Header from '../../components/header';
 import Nav from '../../components/nav';
 import Main from '../../components/main';
 import getTabDataById from '../../data/getTabDataById';
-import styles from '../../styles/tab.module.scss';
+import styles from '../../styles/Tab.module.scss';
 import Bar from '../../components/bar';
 
 const Tab = () => {
